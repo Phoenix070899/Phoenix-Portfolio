@@ -1,18 +1,18 @@
 const porfolioList = [
     {
-        linkHref: '/prjs/Music_Player/index.html',
+        linkHref: 'https://phoenix070899.github.io/music-player/',
         imgUrl: 'https://images.unsplash.com/photo-1619983081563-430f63602796?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80',
         title: 'Javascript Music Player',
         detail: 'Create a basic Music Player with HTML, CSS. Get used to with DOM and events.'
     },
     {
-        linkHref: '/prjs/LogIn_Page/index.html',
+        linkHref: 'https://phoenix070899.github.io/login-validation/',
         imgUrl: 'https://images.unsplash.com/photo-1554224154-22dec7ec8818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80',
         title: 'Javascript Sign-in Validation',
         detail: 'Create a basic Login Page with HTML, CSS. When users fill-in each field, value will be check whether correct or not, and give feedback to users.'
     },
     {
-        linkHref: '/prjs/Weather_App/index.html',
+        linkHref: 'https://phoenix070899.github.io/weather-app/',
         imgUrl: 'https://images.unsplash.com/photo-1500390365106-166bb67248d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80',
         title: 'Javascript Weather App',
         detail: 'Create a weather app. Using Openweathermap API to fetch data, get up-to-date weather detail of user\'s city and show on display.'
