@@ -64,7 +64,7 @@ function renderPorfolioItems() {
     let porfolioItemsHtml = porfolioList.map(function(porfolioItem) {
         return `
         <li>
-        <a class="porfolio-item" href=${porfolioItem.linkHref}>
+        <a target="_blank" class="porfolio-item" href=${porfolioItem.linkHref}>
             <div class="item-img">
                 <img src=${porfolioItem.imgUrl}
                     class="img-1" alt="">
