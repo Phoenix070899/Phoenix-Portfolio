@@ -17,6 +17,12 @@ const porfolioList = [
         title: 'Javascript Weather App',
         detail: 'Create a weather app. Using Openweathermap API to fetch data, get up-to-date weather detail of user\'s city and show on display.'
     },
+    {
+        linkHref: 'https://spotify-clone-ochre-nine.vercel.app/',
+        imgUrl: 'https://images.unsplash.com/photo-1613329671121-5d1cf551cc3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80',
+        title: 'Spotify Clone Player Control',
+        detail: 'Clone Spotify Player using Spotify API. Using ReactJS to render components on Website and TailwindCSS to style. Also I use Axios to fetch data form Spotify API.'
+    },
 ]
 
 const controlBtns = document.querySelectorAll('.control')

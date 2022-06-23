@@ -356,7 +356,7 @@ section {
     .porfolio-items {
         width: 80%;
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
         gap: 3rem;
         justify-items: start;
         justify-content: center;
@@ -495,10 +495,6 @@ section {
             grid-template-rows: fit-content(200px) 50px;
             grid-template-columns: repeat(2, 1fr);
             padding-bottom: 4rem;
-
-            > li:last-child {
-                grid-column: 1 / span 2;
-            }
         }
     }
 
