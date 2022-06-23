@@ -496,6 +496,7 @@ section {
 
 .section.porfolio .porfolio-items {
   width: 80%;
+  max-width: 800px;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (1fr)[2];
